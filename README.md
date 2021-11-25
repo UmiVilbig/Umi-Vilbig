@@ -2,8 +2,10 @@
 
 My name is Umi, I'm 18 and I like working with webscraping and autimation. I'm learning some react and working to become a full stack developer
 
-#Highlight
+# Highlight
 - Code day 2021 in DC
+
+## <img height="40" src="https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif"/> Links
 
 ## I work with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -20,5 +22,4 @@ My name is Umi, I'm 18 and I like working with webscraping and autimation. I'm l
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=UmiVilbig&count_private=true&show_icons=true&include_all_commits=true)
 
-## <img height="40" src="https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/umi-vilbig-1423a4218/)
