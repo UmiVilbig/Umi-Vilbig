@@ -5,8 +5,7 @@ My name is Umi, I'm 18 and I like working with webscraping and autimation. I'm l
 # Highlight
 - Code day 2021 in DC
 
-
-![Github Stats]
+# Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umivilbig&label=Profile%20views&color=0e75b6&style=flat" alt="umivilbig" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umivilbig&show_icons=true&locale=en" alt="umivilbig" /></p>
 
