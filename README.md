@@ -5,6 +5,13 @@ My name is Umi, I'm 18 and I like working with webscraping and autimation. I'm l
 # Highlight
 - Code day 2021 in DC
 
+
+![Github Stats]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umivilbig&label=Profile%20views&color=0e75b6&style=flat" alt="umivilbig" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umivilbig&show_icons=true&locale=en" alt="umivilbig" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umivilbig&" alt="umivilbig" /></p>
+
 ## I work with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -18,7 +25,5 @@ My name is Umi, I'm 18 and I like working with webscraping and autimation. I'm l
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UmiVilbig&count_private=true&show_icons=true&include_all_commits=true)
-
-## <img height="40" src="https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif"/> Links
+## <img height="40" src="https://media.giphy.com/media/nDSlfqf0gn5g4/giphy.gif"/> Connect With Me
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/umi-vilbig-1423a4218/)
