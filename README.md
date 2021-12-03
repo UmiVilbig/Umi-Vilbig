@@ -1,6 +1,6 @@
 # Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Umi, I'm 18 and I like working with webscraping and autimation. I'm learning some react and working to become a full stack developer
+My name is Umi, I'm 18 and I like working with web scraping and automation. I'm learning some react and working to become a full stack developer
 
 # Highlight
 - Code day 2021 in DC
