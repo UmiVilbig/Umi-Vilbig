@@ -1,6 +1,6 @@
 # Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Umi, I'm 18 and I like working with web scraping and automation. I'm learning some react and working to become a full stack developer
+My name is Umi, I'm 18 and I work mostly in frontend development. I mostly work with Next.js and react. I am a full stack developer and comfortable with other frameworks like ElectronJS and ExpressJS
 
 # Highlight
 - Code day 2021 in DC
