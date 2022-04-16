@@ -3,6 +3,4 @@
 
 I got into coding because I saw the power of being able to create anything. I aspire to keep learning new things as well as master the frameworks I love most
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UmiVilbig)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UmiVilbig)  
