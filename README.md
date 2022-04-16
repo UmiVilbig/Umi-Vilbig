@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Umi
+# Hi there 👋, I'm Umi
 
 I got into coding because I saw the power of being able to create anything. I aspire to keep learning new things as well as master the frameworks I love most
 
