@@ -2,6 +2,9 @@
 
 I got into coding because I saw the power of being able to create anything. I aspire to keep learning new things as well as master the frameworks I love most
 
+## I like the visuals and graphs
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UmiVilbig) 
+
 ## I love
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
